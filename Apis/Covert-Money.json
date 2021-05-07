@@ -1,0 +1,47 @@
+[
+    {
+        "Title": "USD",
+        "Description": "El dólar es la moneda oficial de los Estados Unidos -lugar en el que se emite- pero también de otros países como Ecuador, El Salvador o Zimbabue. Además, el dólar estadounidense es la divisa más utilizada por los turistas. Los primeros dólares de plata empezaron a acuñarse en 1794, tras la aprobación de «The Coinage Act», decreto que creaba la primera casa de la moneda norteamericana y establecía al dólar como unidad de referencia del país.",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20Dolares.png"
+    },
+    {
+        "Title": "MXN",
+        "Description": "El peso mexicano es la moneda oficial de México, una divisa que, con el paso de los años, ha ido adaptándose a las necesidades del mercado. Actualmente, existen nueve tipos de billetes y nueve de monedas de valores distintos, que van desde los 5 centavos hasta los 1000 pesos.",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20MXN.png"
+    },
+    {
+        "Title": "YEN",
+        "Description": "El yen (円 símbolo monetario: ¥, ISO: JPY) es la unidad monetaria utilizada en Japón​ y la tercera moneda más valorada en el mercado de divisas después del dólar estadounidense y el euro. También es usada como moneda de reserva junto al dólar, el euro y la libra esterlina. Como es común en la numeración japonesa, las cantidades grandes del yen se cuentan en múltiplos de 10,000 (万).",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20Yenes%20Jap%C3%B3n.png"
+    },
+    {
+        "Title": "EURO",
+        "Description": "El euro es la moneda única para los Estados miembros de la Unión Europea y, a día de hoy, es utilizado por unos 334 millones de personas. El 1 de enero de 2002 se puso en circulación, sustituyendo a monedas como la peseta, el franco, el dracma o el escudo.",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20Euros.png"
+    },
+    {
+        "Title": "SOLES",
+        "Description": "El sol es la moneda de curso legal del Perú desde 1991. Esta moneda reemplazó al inti que circuló entre 1985 y 1991. Inicialmente fue denominada nuevo sol para diferenciarla del 'viejo' sol que circuló entre 1931 y 1985. Sin embargo, desde 2015 el gobierno dispuso que el 'nuevo sol' pase a denominarse simplemente 'sol', suprimiéndose además el uso del punto (S/.).",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20Soles.png"
+    },
+    {
+        "Title": "PESOS CHILENOS",
+        "Description": "El peso fue establecido como unidad monetaria de Chile en 1925, con un contenido de 0,183057 gramos de oro fino y dividiéndose en cien centavos. A su vez, diez pesos constituían un cóndor. La inflación dejó en desuso las monedas fraccionarias, hasta que en 1955 una disposición legal estipuló que las obligaciones debían pagarse en cifras enteras de pesos.",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20P.%20Chilenos.png"
+    },
+    {
+        "Title": "PESOS ARGENTINOS",
+        "Description": "El peso argentino fue la moneda de la República Argentina desde el 1 de junio de 1983 hasta el 14 de junio de 1985, cuando se la sustituyó por el austral. Estaba fraccionado en 100 centavos, el símbolo era $a y su simbologia es ARP.",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20P.%20Argentinos.png"
+    },
+    {
+        "Title": "PESOS COLOMBIANOS",
+        "Description": "La unidad monetaria de curso legal en Colombia, incluyendo sus islas de San Andrés y Providencia, es el peso colombiano. Esta divisa tiene en circulación, actualmente, cinco tipos de monedas y billetes de seis valores distintos",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20P.%20Colombianos.png"
+    },
+    {
+        "Title": "PESOS BOLIVIANOS",
+        "Description": "El Peso boliviano fue la moneda oficial de Bolivia entre los años 1963 y 1986. Estaba dividido en 100 centavos. Se llamó oficialmente Peso boliviano, esta moneda sustituyó al viejo boliviano por un cambio de mil a uno. El Peso boliviano sufrió una hiperinflación en los mediados de los años 1980, dando lugar al remplazo por el nuevo boliviano en 1987 en un cambio de un millón a uno. El símbolo del Peso boliviano era $b",
+        "image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Convertir-Dinero/Page%20Dinero%20-%20P.%20Bolivianos.png"
+    }
+]
