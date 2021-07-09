@@ -12,10 +12,9 @@
         "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Convertir%20dinero.png"
     },
     {
-        "Title": "Fisica en ciencia",
-        "Link": "/ciencia",
-        "Description": "Algo que no muchos conocen son las notaciones cientificas y estandars, pues si conoces estos terminos aqui puedes cambiar los valores",
-        "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Ciencia.png"
+        "Title": "Figuras geometricas",
+        "Link": "/figuras-geometricas",
+        "Description": "Las figuras geometricas sirven mucho en la vida, al menos eso dicen los profesores, pero mientras ellos te mienten puedes sacar las areas y perimetros de las 4 famoso figuras geometricas",
     },
     {
         "Title": "Graficas",
