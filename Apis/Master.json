@@ -10,11 +10,13 @@
         "Link": "/convertir-dinero",
         "Description": "Si quieres saber cuanto vale un peso de un pais al tu peso local pues aqui puedes hacerlo",
         "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Convertir%20dinero.png"
+
     },
     {
         "Title": "Figuras geometricas",
         "Link": "/figuras-geometricas",
         "Description": "Las figuras geometricas sirven mucho en la vida, al menos eso dicen los profesores, pero mientras ellos te mienten puedes sacar las areas y perimetros de las 4 famoso figuras geometricas",
+	"Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtis/master/Master/Page%20%Master%20-%20Convertir%20dinero.png"
     },
     {
         "Title": "Graficas",
