@@ -6,7 +6,7 @@
         "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Matematicas.png"
     },
     {
-        "Title": "Convertir valor de dinero",
+        "Title": "Conversor de dinero",
         "Link": "/convertir-dinero",
         "Description": "Si quieres saber cuanto vale un peso de un pais al tu peso local pues aqui puedes hacerlo",
         "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Convertir%20dinero.png"
@@ -16,10 +16,10 @@
         "Title": "Figuras geometricas",
         "Link": "/figuras-geometricas",
         "Description": "Las figuras geometricas sirven mucho en la vida, al menos eso dicen los profesores, pero mientras ellos te mienten puedes sacar las areas y perimetros de las 4 famoso figuras geometricas",
-	"Image": ""
+	"Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Ciencia.png"
     },
     {
-        "Title": "Graficas",
+        "Title": "Grafica de estadistica",
         "Link": "/grafica",
         "Description": "Los graficos son de mucha ayuda, pues hacerlas aqui es facil ademas que puedes elegir entre una normal o una circular",
         "Image": "https://raw.githubusercontent.com/eliud-cesar/database-math-funtins/master/Master/Page%20Master%20-%20Grafica.png"
